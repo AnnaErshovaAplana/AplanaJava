@@ -1,2 +1,11 @@
 .idea
 *.iml
+/src/Test.java
+/src/Program.java
+/src/MainClass.java
+/src/Inches.java
+/src/HelloWorld.java
+/src/BoolDemo.java
+/src/Hypot.java
+/src/Switch.java
+/src/Input1.java
